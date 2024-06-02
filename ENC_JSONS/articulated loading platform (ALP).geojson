@@ -1,0 +1,47 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.74169,
+          17.980696
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "articulated loading platform (ALP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.742105,
+          17.980866
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "articulated loading platform (ALP)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -66.741372,
+          17.98044
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "articulated loading platform (ALP)"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.457493,
+          43.110638
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "floating production, storage and off-loading vessel (FPSO)"
+      }
+    }
+  ]
+}

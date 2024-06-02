@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -82.747337,
+          28.312288
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.99491,
+          37.315599
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.488626,
+          36.884511
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.503942,
+          36.881755
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.037731,
+          37.998705
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.988943,
+          37.827376
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.989131,
+          37.828607
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.989291,
+          37.827779
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.035338,
+          37.997571
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.026316,
+          37.96712
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.988628,
+          37.82716
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.98841,
+          37.828107
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.025153,
+          37.968317
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.035792,
+          37.997751
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.025394,
+          37.968995
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.036224,
+          37.997805
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.315729,
+          36.977194
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "accommodation platform"
+      }
+    }
+  ]
+}

@@ -1,0 +1,1727 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.763964,
+          27.111429
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.533009,
+          29.17517
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.999436,
+          29.5523
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.99748,
+          29.555514
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.989211,
+          29.556775
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.998956,
+          29.557906
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.995594,
+          29.56138
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.001869,
+          29.559714
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.0297,
+          29.51535
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.999172,
+          29.560447
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.469735,
+          29.058149
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.446527,
+          29.061498
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.533008,
+          29.174632
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.806389,
+          29.688889
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796667,
+          29.684444
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.800556,
+          29.6825
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.791944,
+          29.683056
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799167,
+          29.690556
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.790214,
+          29.685383
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.718998,
+          29.126677
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798611,
+          29.684722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795556,
+          29.681667
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795833,
+          29.689722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8025,
+          29.703611
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.803056,
+          29.683611
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.816389,
+          29.683611
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.803889,
+          29.683889
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.787189,
+          29.683225
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.801747,
+          29.684781
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796353,
+          29.671047
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.785833,
+          29.673611
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795278,
+          29.682778
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.811986,
+          29.672672
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798889,
+          29.679722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.797222,
+          29.685
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.804167,
+          29.695556
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.514153,
+          29.370883
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.801111,
+          29.695278
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799819,
+          29.67845
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798008,
+          29.670533
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.8,
+          29.690833
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796667,
+          29.671944
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.807083,
+          29.701389
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799725,
+          29.693472
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.792778,
+          29.672222
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.809444,
+          29.686111
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.803333,
+          29.705556
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799869,
+          29.691556
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799772,
+          29.675767
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.791667,
+          29.674444
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.800794,
+          29.671244
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7825,
+          29.6625
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799444,
+          29.6825
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798333,
+          29.689444
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.802222,
+          29.707222
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796111,
+          29.685556
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.800833,
+          29.697778
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.786389,
+          29.67
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.790833,
+          29.684722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.797222,
+          29.6925
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.792222,
+          29.685833
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.790447,
+          29.673614
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798889,
+          29.693889
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.803333,
+          29.691111
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.788928,
+          29.670447
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.799806,
+          29.676367
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.80295,
+          29.695978
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.7925,
+          29.675
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.798542,
+          29.677517
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.801944,
+          29.696667
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.788592,
+          29.683283
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.805833,
+          29.681389
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796667,
+          29.694167
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.805,
+          29.678333
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.782778,
+          29.668056
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.784167,
+          29.666667
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.789444,
+          29.669722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.804119,
+          29.689125
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.800278,
+          29.68
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.804333,
+          29.669139
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.803028,
+          29.677528
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.796111,
+          29.684722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.795833,
+          29.675833
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -91.802894,
+          29.704922
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.292889,
+          29.075722
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.352825,
+          29.332945
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.34706,
+          29.33586
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.35254,
+          29.33189
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.352455,
+          29.33388
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.346345,
+          29.33621
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.131,
+          33.581616
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.119771,
+          33.562211
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.044636,
+          33.661279
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.061632,
+          33.661844
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.141691,
+          33.594598
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.128695,
+          33.585212
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.989048,
+          29.711372
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.352825,
+          29.332945
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.352455,
+          29.33388
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.35254,
+          29.33189
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.39,
+          30.196667
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -96.854479,
+          26.476235
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -87.973747,
+          30.266828
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -94.310147,
+          28.684765
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047153,
+          30.295455
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.346345,
+          29.33621
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -93.34706,
+          29.33586
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.557222,
+          60.919444
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.3,
+          60.998333
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.4859,
+          60.828583
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.602194,
+          60.831653
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.605824,
+          60.865236
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.315,
+          60.976667
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.530732,
+          60.928366
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.511836,
+          60.735372
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.333333,
+          60.9575
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.633056,
+          60.8075
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.613059,
+          60.839742
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.673167,
+          60.695067
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.579297,
+          60.896817
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.499267,
+          60.795636
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -151.502035,
+          60.76399
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.047153,
+          30.295455
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "oil derrick/rig"
+      }
+    }
+  ]
+}

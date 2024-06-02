@@ -1,0 +1,481 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.348748,
+          70.215944
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.697261,
+          70.492458
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.497161,
+          70.278863
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.91606,
+          69.65718
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.81086,
+          69.40553
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.19743,
+          69.90864
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.02759,
+          69.77707
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.84255,
+          69.47947
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.83452,
+          69.42292
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.614,
+          69.55743
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.31404,
+          69.76596
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.832966,
+          70.324334
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.851286,
+          70.521446
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.81678,
+          69.38454
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.46274,
+          69.70753
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.38331,
+          69.4027
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -134.31785,
+          70.01584
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -136.29797,
+          69.27709
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.8586,
+          69.46212
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -135.84677,
+          69.44178
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.49742,
+          70.279087
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.348238,
+          70.217463
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -147.867406,
+          70.316492
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.229198,
+          70.394958
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.196536,
+          70.367126
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.695552,
+          70.491575
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.054564,
+          70.371112
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -148.022995,
+          70.345351
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806551,
+          24.561839
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.806551,
+          24.561839
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -79.747499,
+          9.450238
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -150.250736,
+          70.495602
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -88.050553,
+          30.187681
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -78.251347,
+          26.616518
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "artificial island"
+      }
+    }
+  ]
+}

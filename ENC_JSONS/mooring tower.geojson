@@ -1,0 +1,271 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.025085,
+          28.885207
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.243259,
+          37.774964
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.025085,
+          28.885207
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -90.025085,
+          28.885207
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79722,
+          48.085093
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.79739,
+          48.086461
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.795331,
+          48.085571
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.794507,
+          48.086869
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.949008,
+          21.365979
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.959645,
+          21.357335
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.951673,
+          21.364017
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.958362,
+          21.359395
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.948451,
+          21.366455
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.957992,
+          21.35999
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.95005,
+          21.365225
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.950655,
+          21.364793
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.952255,
+          21.363573
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.947646,
+          21.367641
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -157.959082,
+          21.358261
+        ]
+      },
+      "properties": {
+        "category": "offshore_platform",
+        "finer_category": "mooring tower"
+      }
+    }
+  ]
+}
