@@ -15,3 +15,5 @@ The intersect_satlas_enc.py script intersects all the marine objects derived fro
 
 The get_enc_images.py script calls an internal Allen Institute for AI (AI2) url to retrieve the Sentinel-2 images corresponding to the images we desire. It also puts all the images and true label files
 into a directory format that AI2's internal multisat training library supports.
+
+Note that there are many more helper scripts and code files that I cannot share here on which I worked on. The files given are meant to provide an idea of what I was doing.
